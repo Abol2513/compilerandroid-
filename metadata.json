@@ -1,0 +1,6 @@
+{
+  "name": "تیتان‌دروید آرشیتکت",
+  "description": "تحلیلگر هوشمند آرشیوهای اندروید، بازرس ۱۶ کیلوبایتی ELF، معمار بیلد پروژه‌های غول‌پیکر و پچ‌یاب خودترمیم‌گر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
